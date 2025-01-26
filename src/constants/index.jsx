@@ -31,6 +31,10 @@ export const info = [
     title: "Соберите свой",
     subTitle: "велосипед с легкостью",
   },
+  {
+    title: "Ускорьте",
+    subTitle: "свои поездки",
+  },
 ];
 
 export const navItems = [
@@ -177,16 +181,12 @@ export const pricingOptions = [
 export const resourcesLinks = [
   { href: "#", text: "Начало работы" },
   { href: "#", text: "Инструкции" },
-  { href: "#", text: "Видеоуроки" },
-  { href: "#", text: "Справочник по API" },
   { href: "#", text: "Форумы сообщества" },
 ];
 
 export const platformLinks = [
   { href: "#", text: "Особенности" },
-  { href: "#", text: "Поддерживаемые устройства" },
-  { href: "#", text: "Системные требования" },
-  { href: "#", text: "Загрузки" },
+  { href: "#", text: "Новые поступления" },
   { href: "#", text: "История обновлений" },
 ];
 
@@ -194,6 +194,6 @@ export const communityLinks = [
   { href: "#", text: "События" },
   { href: "#", text: "Встречи" },
   { href: "#", text: "Конференции" },
-  { href: "#", text: "Хакатоны" },
+  { href: "#", text: "Последние новости" },
   { href: "#", text: "Вакансии" },
 ];
